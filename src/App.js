@@ -9,7 +9,6 @@ class App extends Component {
     return (
       <div className="App">
         <NavBar />
-        <h1>JSON Parsing Application</h1>
       </div>
     );
   }
